@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage":"https://gimnakatugampala.github.io/cms",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
